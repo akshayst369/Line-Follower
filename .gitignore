@@ -1,0 +1,29 @@
+# Compilation & Build outputs
+build/
+bin/
+*.hex
+*.elf
+*.bin
+*.o
+*.a
+*.d
+
+# IDE & Editor caches
+.vscode/
+.idea/
+*.swp
+*~
+*.bak
+
+# Arduino CLI caches
+.arduino/
+libraries/
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
